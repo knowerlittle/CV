@@ -20,10 +20,10 @@ Recent graduate of Makers Academy. Half Thai / British. Chiang Mai born & grown.
 ##Code Examples
 | Projects     | Description           | Technologies Implemented | Testing |
 | ------------- |:-------------:| -----:|-----:|
-|   **Splitter App** Front-end &nbsp; *View Repo*  | A Hybrid Phone App that digitizes a photo of a bill to a list of items. The list can be sent to different emails to request payment. <a style="text-decoration:none" href="https://vimeo.com/knowerlittle/billsplitter">Watch App Video</a>.| IONIC, AngularJS, JavaScript, ngCordova| Karma, Protractor |
-|   **Splitter App** Back-end &nbsp; *View Repo* | Rails API back-end deployed on Heroku outputting JSON data. Responsible for the Photo-to-Text conversion syncing with AWS and Postgres. | Ruby on Rails (API), Tesseract OCR, Postgres, Heroku, AWS  | Rspec |
-| **UOI**  &nbsp; &nbsp; &nbsp; &nbsp; *View Repo*| A Web App that creates IOUs using spam tactics as payment reminders.       |   Materalize CSS, Ruby on Rails, Postgres, Heroku | Rspec, Capybara |
-| **DreamBnB** *View Repo* | A listings site for B&Bs. Allows users to create new listings, track requests, and book places to stay.       |    Boostrap CSS, Ruby, Sinatra, JQuery, Javascript, Postgres | Rspec, Capybara |
+|   **Splitter App** Front-end &nbsp; <a style="text-decoration:none"  href="https://github.com/knowerlittle/splitter-frontend">*View Repo*</a>  | A Hybrid Phone App that converts a photo of a bill into a digital list of items. The list can be sent to different emails to request payment. <a style="text-decoration:none" href="https://vimeo.com/knowerlittle/billsplitter">Watch App Video</a>.| IONIC, AngularJS, JavaScript, ngCordova| Karma, Protractor |
+|   **Splitter App** Back-end &nbsp; <a style="text-decoration:none"  href="https://github.com/knowerlittle/splitter-backend">*View Repo*</a> | Rails API back-end deployed on Heroku outputting JSON data. Responsible for the Photo-to-Text conversion syncing with AWS and Postgres. | Ruby on Rails (API), Tesseract OCR, Postgres, Heroku, AWS  | Rspec |
+| **UOI**  &nbsp; &nbsp; &nbsp; &nbsp;  <a style="text-decoration:none"  href="https://github.com/knowerlittle/UOI">*View Repo*</a>| A Web App that creates IOUs using spam tactics as payment reminders. <a style="text-decoration:none"  href="https://uoi.herokuapp.com/">View Site</a>. |   Materalize CSS, Ruby on Rails, Postgres, Heroku | Rspec, Capybara |
+| **DreamBnB** <a style="text-decoration:none"  href="https://github.com/knowerlittle/dreamersbnb">*View Repo*</a> | A listings site for B&Bs. Users can create new listings, track requests, and book places to stay.  <a style="text-decoration:none"  href="https://dreamersbnb.herokuapp.com/">View Site</a>.     |    Boostrap CSS, Ruby, Sinatra, JQuery, Javascript, Postgres | Rspec, Capybara |
 
 ##Skills
 ### Proactive
