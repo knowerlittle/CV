@@ -46,6 +46,7 @@ Through my previous work of audio engineering, running events, and DJing I learn
   * Pair Programming
   * Agile Methodologies
   * Good industry practices
+  * Latest Web Technologies (see *Code Examples* above)
  
 
 ####Middlesex University London &nbsp; (2008)
