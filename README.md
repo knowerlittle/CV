@@ -1,9 +1,9 @@
-##NOAH POLLOCK 
+##NOAH POLLOCK
 ###Junior Developer
 
 🌐
 <a style="text-decoration:none" href="https://knowerlittle.ghost.io">Blog</a>
-&nbsp; | &nbsp; 
+&nbsp; | &nbsp;
 ✉️
 <a style="text-decoration:none" href="mailto:pollocknoah@gmail.com">pollocknoah@gmail.com</a>
 &nbsp; | &nbsp;
@@ -15,7 +15,7 @@
 
 
 ## `$`whoami
-Recent graduate of Makers Academy. Half Thai / British. Chiang Mai born & grown. Creative + Logical. Worked as an audio engineer, DJ and assistant film composer in London before immersing myself in the wonderful world of code. Ready to work with and learn from an inspiring team on significant and gratifying projects.  
+Recent graduate of Makers Academy. Half Thai / British. Born and nurtured in Chiang Mai, Thailand. Creative + Logical. Worked as an audio engineer, DJ and assistant film composer in London before immersing myself in the wonderful world of code. Ready to work with and learn from an inspiring team on significant and gratifying projects.  
 
 ##Code Examples
 | Projects     | Description           | Technologies Implemented | Testing |
@@ -39,7 +39,7 @@ Through my previous work of audio engineering, running events, and DJing I learn
 
 ###Makers Academy &nbsp; (April - July 2016)
 12 Week Intensive Coding Bootcamp with an emphasis on software craftsmanship and XP values.
-	
+
   * S.O.L.I.D design principles
   * Object-Orientated Design
   * TDD (Test Driven Development)
@@ -47,7 +47,7 @@ Through my previous work of audio engineering, running events, and DJing I learn
   * Agile Methodologies
   * Good industry practices
   * Latest Web Technologies (see *Code Examples* above)
- 
+
 
 ####Middlesex University London &nbsp; (2008)
 * BA Hons 2.1 Recording Arts
@@ -64,12 +64,12 @@ Ronnie Scott’s Jazz Club *Soho, London* &nbsp;&nbsp;&nbsp;
 
 <sub>Trilok Gurto / Kenny Werner David Sanchez Quartet / Cecile McLorin Salvant Quartet / Christian Brewer Quartet Presented by Alex Garnett /  The Charlie Parker Legacy Band / Monty Alxander Trio / Monty Alexander Harlem Kingston Express / Ginger Baker’s Jazz Confusion / David Holland PRISM / National Youth Jazz Orchestra / Tingvall Trio + Gareth Williams Power Trio / Jeff Hooper / Dennis Rollins’ Velocity Trio / The James Taylor Quartet / An Evening With Al Di Meola / Diane Reeves Beautiful Life / Chris Dave and The Drumheadz / Incognito / Wayne Krantz Trio / James Carter Organ Trio / Tim Thornton Quartet</sub>
 
-National Youth Jazz Orchestra &nbsp;&nbsp; 
+National Youth Jazz Orchestra &nbsp;&nbsp;
 
 <sub>The Convent, Stroud / The Salisbury Playhouse, Wiltshire</sub>
 
 
 ####MUSIC COMPOSITION<sub>Assitant to composer Amory Leader, THE GOSPEL OF MARK (Feature Film), LUMO PROJECT 2015 / Composer & Sound Editor, R E M O T E by Nick Brown (Theatre), CAMDEN FRINGE FESTIVAL 2015 / Composer, SURVIVOR TYPE (Short film) Dirigo Entertainment 2012 / Composer, THE BILLION POUND GAMBLE 2012, TALE OF TWO BARNETS 2012 </sub>
 
-####EVENTS<sub>Co-Producer of regular shows 'The Flamingo Room Cabaret & Live Jazz' at Looking Glass Cocktail Club, Shoreditch</sub><sub> Events Photographer and Instagram handler @SubmitUK (Collective, Production Company). 
+####EVENTS<sub>Co-Producer of regular shows 'The Flamingo Room Cabaret & Live Jazz' at Looking Glass Cocktail Club, Shoreditch</sub><sub> Events Photographer and Instagram handler @SubmitUK (Collective, Production Company).
 Events at Proud, Camden / Hootananny, Brixton / Bussey Building, Peckham / Notting Hill Arts Club / XOYO, Old St</sub>
