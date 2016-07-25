@@ -15,7 +15,7 @@
 
 
 ## `$`whoami
-Recent graduate of Makers Academy. Half Thai / British. Born and nurtured in Chiang Mai, Thailand. Creative + Logical. Worked as an audio engineer, DJ and assistant film composer in London before immersing myself in the wonderful world of code. Ready to work with and learn from an inspiring team on significant and gratifying projects.  
+Recent graduate of Makers Academy. Half Thai / British. Chiang Mai born & grown. Creative + Logical. Worked as an audio engineer, DJ and assistant film composer in London before immersing myself in the wonderful world of code. Ready to work with and learn from an inspiring team on significant and gratifying projects.  
 
 ##Code Examples
 | Projects     | Description           | Technologies Implemented | Testing |
