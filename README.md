@@ -2,7 +2,7 @@
 ###Junior Developer
 
 🌐
-<a style="text-decoration:none" href="https://knowerlittleblog.tk">[Blog]</a>
+<a style="text-decoration:none" href="https://knowerlittleblog.tk">Blog</a>
 &nbsp; | &nbsp;
 ✉️
 <a style="text-decoration:none" href="mailto:pollocknoah@gmail.com">pollocknoah@gmail.com</a>
