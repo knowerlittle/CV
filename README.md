@@ -1,5 +1,5 @@
 ##NOAH POLLOCK
-###Junior Developer
+###Junior Web Developer
 
 🌐
 <a style="text-decoration:none" href="https://knowerlittle.ghost.io">Blog</a>
