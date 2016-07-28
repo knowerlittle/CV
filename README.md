@@ -53,7 +53,7 @@ Through my previous work of audio engineering, running events, and DJing I learn
 * BA Hons 2.1 Recording Arts
 
 ####School of Audio Engineering (SAE) Bangkok &nbsp; (2006)
-* Diploma in Audio Engineering
+* Diploma in Audio Engineering, 91%
 
 ##Experience
 
