@@ -1,9 +1,8 @@
 ##NOAH POLLOCK
 ###Junior Developer
 
-🌐
-<a style="text-decoration:none" href="https://knowerlittle.ghost.io">Blog</a>
-&nbsp; | &nbsp;
+
+
 ✉️
 <a style="text-decoration:none" href="mailto:pollocknoah@gmail.com">pollocknoah@gmail.com</a>
 &nbsp; | &nbsp;
@@ -11,6 +10,10 @@
 <a style="text-decoration:none" href="https://uk.linkedin.com/in/knowerlittle">LinkedIn</a>
 &nbsp; | &nbsp;
 <a style="text-decoration:none" href="https://www.twitter.com/knowerlittle">Twitter</a>
+<br>
+🌐
+<a style="text-decoration:none" href="https://knowerlittle.ghost.io">Blog</a>
+★ Winner of the Makers Academy April 2016 Blog competition
 
 
 
