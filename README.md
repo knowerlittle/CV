@@ -13,7 +13,7 @@
 <br>
 🌐
 <a style="text-decoration:none" href="https://knowerlittle.ghost.io">Blog</a>
-★ Winner of the Makers Academy April 2016 Blog competition
+★ Winner of the Makers Academy April 2016 Blog Competition
 
 
 
