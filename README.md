@@ -12,7 +12,7 @@
 <a style="text-decoration:none" href="https://www.twitter.com/knowerlittle">Twitter</a>
 <br>
 🌐
-<a style="text-decoration:none" href="https://knowerlittle.ghost.io">Blog</a>
+<a style="text-decoration:none" href="https://knowerlittlemakersblog.herokuapp.com">Blog</a>
 ★ Winner of the Makers Academy April 2016 Blog Competition
 
 
