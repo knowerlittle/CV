@@ -3,10 +3,7 @@
 
 
 
-✉️
-<a style="text-decoration:none" href="mailto:pollocknoah@gmail.com">pollocknoah@gmail.com</a>
-&nbsp; | &nbsp;
-📱+447502429477 &nbsp; | &nbsp;
+📱 +447502429477 &nbsp; | &nbsp;
 <a style="text-decoration:none" href="https://uk.linkedin.com/in/knowerlittle">LinkedIn</a>
 &nbsp; | &nbsp;
 <a style="text-decoration:none" href="https://www.twitter.com/knowerlittle">Twitter</a>
