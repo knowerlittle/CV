@@ -3,7 +3,6 @@
 
 
 
-📱 +447502429477 &nbsp; | &nbsp;
 <a style="text-decoration:none" href="https://uk.linkedin.com/in/knowerlittle">LinkedIn</a>
 &nbsp; | &nbsp;
 <a style="text-decoration:none" href="https://www.twitter.com/knowerlittle">Twitter</a>
