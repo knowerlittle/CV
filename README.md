@@ -27,7 +27,6 @@ A web portal for social platforms built on top of the Steem Blockchain
 
 ★ Technologies: 
 * Vue.js, Scss, Zeit Now, Photoshop, After Effects
-----
 
 ### Full Stack Developer & Product Owner - Popin 
 Jan 2018 - Apr 2018
@@ -46,8 +45,6 @@ Hired to build a demo Web Application for a pitch. Filled Product Owner, Product
 ★ Technologies: 
 * React, Redux, Scss, Node.js, Express, MongoDb, CircleCI, DigitalOcean, Sketch, Invision
 
-----
-
 ### Full Stack Developer - Mettrr
 Oct 2016 - Dec 2017
 
@@ -63,7 +60,6 @@ Mettrr (www.mettrr.com) is a best in class artificial intelligence DIFM 'do it f
 
 ★ Technologies: 
 * Vue.js, Laravel, MySQL, HTML5 & CSS3, Sketch, Invision
-----
 
 ### Web Developer - The CLF Art Cafe
 Jul 2016 - Sep 2016
@@ -78,7 +74,6 @@ The CLF Art Cafe is a versatile, multi-level warehouse space, staging innovative
 
 ★ Technologies: 
 * HTML & CSS, JQuery, Photoshop, Facebook Ad Services, Twitter for Business
-___
 
 ### Junior Developer  - Makers Academy
 Mar 2016 - Jun 2016
