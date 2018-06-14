@@ -92,7 +92,7 @@ A Hybrid Phone App that converts a photo of a bill into a digital list of items.
   * Pair Programming
   * Agile Methodologies
   * Good industry practices
-  * Latest Web Technologies (see *Code Examples* above)
+  * Latest Web Technologies
 
 #### Middlesex University London &nbsp; (2008)
 * BA Hons 2.1 Recording Arts
