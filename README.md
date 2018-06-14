@@ -12,8 +12,6 @@
 A lively Full Stack Developer with a strong interest in new technologies. A natural problem solver with a drive to adhere to best practices. Half Thai & British. Creative + Logical. User Friendly.
 
 ## Experience
----
----
 ### Full Stack Developer - Freelance
 Apr 2018 - Present
 
@@ -99,8 +97,6 @@ A Hybrid Phone App that converts a photo of a bill into a digital list of items.
 |   **Splitter App** Back End &nbsp; <a style="text-decoration:none"  href="https://github.com/knowerlittle/splitter-backend">*View Repo*</a> | Rails API back-end deployed on Heroku outputting JSON data. Responsible for the Photo-to-Text conversion syncing with AWS and Postgres. | Ruby on Rails (API), Tesseract OCR, Postgres, Heroku, AWS  | Rspec |
 
 ## Education
----
----
 
 ### Makers Academy &nbsp; (April - July 2016)
 12 Week Intensive Coding Bootcamp with an emphasis on software craftsmanship and XP values.
@@ -120,8 +116,6 @@ A Hybrid Phone App that converts a photo of a bill into a digital list of items.
 * Diploma in Audio Engineering, 91%
 
 ## Experience
----
----
 
 #### DJ
 Resident DJ (Shoreditch BG, Novus Leisure BG, Zebranos BG, SubmitUK Collective)
