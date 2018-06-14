@@ -13,9 +13,7 @@ A lively Full Stack Developer with a strong interest in new technologies. A natu
 
 ## Experience
 ### Full Stack Developer - Freelance
-Apr 2018 - Present
-
-_Remote_
+Apr 2018 - Present | _Remote_
 
 Freelance Full Stack Developer working on various projects.
 
@@ -29,9 +27,7 @@ A web portal for social platforms built on top of the Steem Blockchain
 * Vue.js, Scss, Zeit Now, Photoshop, After Effects
 
 ### Full Stack Developer & Product Owner - Popin 
-Jan 2018 - Apr 2018
-
-_Remote_
+Jan 2018 - Apr 2018 | _Remote_
 
 Hired to build a demo Web Application for a pitch. Filled Product Owner, Product Manager, and Full Stack Developer roles.
 * In charge of bringing onboard a developer and designer
@@ -46,9 +42,7 @@ Hired to build a demo Web Application for a pitch. Filled Product Owner, Product
 * React, Redux, Scss, Node.js, Express, MongoDb, CircleCI, DigitalOcean, Sketch, Invision
 
 ### Full Stack Developer - Mettrr
-Oct 2016 - Dec 2017
-
-_London, United Kingdom_
+Oct 2016 - Dec 2017 | _London, United Kingdom_
 
 Mettrr (www.mettrr.com) is a best in class artificial intelligence DIFM 'do it for me' website creation/management software platform for global brands to re-sell to SME's. 
 
@@ -62,9 +56,7 @@ Mettrr (www.mettrr.com) is a best in class artificial intelligence DIFM 'do it f
 * Vue.js, Laravel, MySQL, HTML5 & CSS3, Sketch, Invision
 
 ### Web Developer - The CLF Art Cafe
-Jul 2016 - Sep 2016
-
-_London, United Kingdom_
+Jul 2016 - Sep 2016 | _London, United Kingdom_
 
 The CLF Art Cafe is a versatile, multi-level warehouse space, staging innovative theatre, art, cabaret and music events.
 * Maintained Venue's website and kept it up to date
@@ -76,9 +68,7 @@ The CLF Art Cafe is a versatile, multi-level warehouse space, staging innovative
 * HTML & CSS, JQuery, Photoshop, Facebook Ad Services, Twitter for Business
 
 ### Junior Developer  - Makers Academy
-Mar 2016 - Jun 2016
-
-_London, United Kingdom_
+Mar 2016 - Jun 2016 | _London, United Kingdom_
 
 12 Week Intensive Coding Bootcamp
 
